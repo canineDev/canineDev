@@ -34,6 +34,7 @@ My name is Logan Sautter! Since the age of 4, I've always been fascinated by com
 ## Job Occupation
 ### Ford Motor Company, Level 2 Site IT Technician
 2026 - Present
+
 Tasks:
 - Provide on-site technical support to multiple sites
 - Platform management & Rackmount installation
@@ -42,6 +43,7 @@ Tasks:
 
 ### ACCESS, Helpdesk Technician
 2023 - 2026
+
 Tasks:
 - Provide on-site technical support to multiple sites
 - Networking & general network diagnostics
