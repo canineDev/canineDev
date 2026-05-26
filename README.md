@@ -2,7 +2,9 @@
 This is my general GitHub page! Below is an overview of who I am, my interests, what I'm working on, and more!
 
 ## Introduction
-My name is Logan Sautter! Since the age of 4, I've always been fascinated by computers and technology, and I've decided to pursue this as my career of choice.
+My name is Logan Sautter! Since the age of 4, I've always been fascinated by computers and technology, and I've decided to pursue this as my career of choice. I love to learn and am always expanding my knowledge and interests!
+
+Fun Fact: Did you know that Unix and Linux are NOT the same? Unix is the base of many operating system, from Linux, BSD, to MacOS!
 
 ## Technical Skills & Capabilties
 ### Scripting/Programming
