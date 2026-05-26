@@ -58,13 +58,17 @@ Tasks:
 
 ## Accomplishments & Certifications
 ### Educational Degrees
-- Bachelors of Science in Computer Information Science at University of Michigan-Dearborn
+- Bachelors of Science in Computer Information Science
+
+University of Michigan-Dearborn
 ### Certifications
 - Technical Support Fundamentals - Google
+
 Issued Mar 2026
 Credential ID ER3BC5F2W5TU
 
 - The Bits and Bytes of Computer Networking - Google
+
 Issued Mar 2026
 Credential ID Z6F5OJD2L5ZJ
 
