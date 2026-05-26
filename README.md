@@ -56,23 +56,21 @@ Tasks:
 - Infrastructure automation utilizing multi-platform compatible scripts (Python, Bash, etc.)
 - Advancement of education within high level IT operations and DevOps
 
-## Accomplishments & Certifications
-### Educational Degrees
-- Bachelors of Science in Computer Information Science
-
-University of Michigan-Dearborn
-### Certifications
-- Technical Support Fundamentals - Google
-
-Issued Mar 2026
-Credential ID ER3BC5F2W5TU
-
-- The Bits and Bytes of Computer Networking - Google
-
-Issued Mar 2026
-Credential ID Z6F5OJD2L5ZJ
-
 ### Past Projects
 - Virtualized environment via Proxmox/Windows Hyper-V
 - Home network utilizing pfSense
 - C-based programs and scripts (All in my repos)
+
+## Accomplishments & Certifications
+### Bachelors of Science in Computer Information Science
+University of Michigan-Dearborn - Awarded in 2027
+
+### Technical Support Fundamentals
+Google Certification
+Issued Mar 2026
+Credential ID ER3BC5F2W5TU
+
+### The Bits and Bytes of Computer Networking
+Google Certification
+Issued Mar 2026
+Credential ID Z6F5OJD2L5ZJ
