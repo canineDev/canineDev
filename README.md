@@ -33,25 +33,6 @@ Fun Fact: Did you know that Unix and Linux are NOT the same? Unix is the base of
 - VPN & various tunneling protocols
 - Physical rack setup (Chassis, patch panels, switches)
 
-## Job Occupation
-### Ford Motor Company, Level 2 Site IT Technician
-2026 - Present
-
-Tasks:
-- Provide on-site technical support to multiple sites
-- Platform management & Rackmount installation
-- Networking & IDF/MDF management
-- Server administration
-
-### ACCESS, Helpdesk Technician
-2023 - 2026
-
-Tasks:
-- Provide on-site technical support to multiple sites
-- Networking & general network diagnostics
-- Server administration
-- Backup management
-
 ## Projects
 ### Currently Working On
 - Docker/Podman management & deployment
