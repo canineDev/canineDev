@@ -63,14 +63,18 @@ Tasks:
 
 ## Accomplishments & Certifications
 ### Bachelors of Science in Computer Information Science
-University of Michigan-Dearborn - Awarded in 2027
+- Award: Bachelors of Science
+- Source: University of Michigan-Dearborn
+- Issued: Aug 2027
 
 ### Technical Support Fundamentals
-Google Certification
-Issued Mar 2026
-Credential ID ER3BC5F2W5TU
+- Award: Certification
+- Source: Google
+- Issued: Mar 2026
+- Credential ID: ER3BC5F2W5TU
 
 ### The Bits and Bytes of Computer Networking
-Google Certification
-Issued Mar 2026
-Credential ID Z6F5OJD2L5ZJ
+- Award: Certification
+- Source: Google
+- Issued: Mar 2026
+- Credential ID: Z6F5OJD2L5ZJ
